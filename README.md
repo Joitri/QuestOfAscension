@@ -1,4 +1,4 @@
-<img width="258" alt="image" src="https://github.com/Joitri/QuestOfAscension/assets/71701549/fa649344-ab61-438b-8f64-d0f78fae18cc"><h1>Quest of Ascension</h1>
+<h1>Quest of Ascension</h1>
 
 <h2>Description</h2>
 Idle game where the players character walks across an endless world full of monsters. One by one the player must either slay the enemy or be slain and return weaker than before. If the player is capable of attaining the experience they may ascend and become even stronger! The more the player saves up, the better the rewards.
