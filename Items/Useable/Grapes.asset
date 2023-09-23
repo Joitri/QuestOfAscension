@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2cec3052a5b5c84fbf59ca2d1b869af, type: 3}
+  m_Name: Grapes
+  m_EditorClassIdentifier: 
+  id: 10
+  ItemName: Grapes
+  Icon: {fileID: -2514143167838104377, guid: fe2b7110f358e3948aafcc65b1b7fb75, type: 3}
+  GoldValue: 150
+  maximumStacks: 7

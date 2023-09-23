@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17791ec4719c79445b0c137ea0b04a35, type: 3}
+  m_Name: Iron Helmet
+  m_EditorClassIdentifier: 
+  id: 3
+  ItemName: Iron Helmet
+  Icon: {fileID: 21300000, guid: 4955783bb555f8d42adfba5e68e0b1a7, type: 3}
+  GoldValue: 500
+  maximumStacks: 1
+  walkSprite:
+  - {fileID: -111504831095108248, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 6416333218805572512, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: -4783644768322566817, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: -1226914611697567681, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 1548345780733838464, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: -5788709272114134353, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 2056238188239315465, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: -6315244801083238662, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  oneHandSprite:
+  - {fileID: 2368654546796875845, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  - {fileID: -3895527675092346872, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  - {fileID: 5651792554235070572, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  twoHandSprite:
+  - {fileID: 4827936082512369193, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  - {fileID: -5701113910788956207, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  - {fileID: 3777698603863118232, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  deathSprite:
+  - {fileID: 2935413542569406741, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: -1209402870617266, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 4158465995058652453, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 2269325718933460273, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 7565308128191437736, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 8288600434294407198, guid: 1af10d7309f5c6f48a9fde29e81951ab, type: 3}
+  - {fileID: 7458689835460281431, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  - {fileID: -2515790207718736943, guid: ccd528c19a3dc33498399095437ff377, type: 3}
+  StrengthBonus: 15
+  IntelligenceBonus: 3
+  WisdomBonus: 3
+  ConstitutionBonus: 10
+  DexterityBonus: 4
+  AgilityBonus: 2
+  LuckBonus: 3
+  CharismaBonus: 2
+  CraftingBonus: 5
+  SkillTotal: 47
+  StrengthPercentBonus: 0
+  IntelligencePercentBonus: 0
+  WisdomPercentBonus: 0
+  ConstitutionPercentBonus: 0
+  DexterityPercentBonus: 0
+  AgilityPercentBonus: 0
+  LuckPercentBonus: 0
+  CharismaPercentBonus: 0
+  CraftingPercentBonus: 0
+  EquipmentType: 0
