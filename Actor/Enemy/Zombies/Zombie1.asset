@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Zombie1
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 201
+  _name: Zombie
+  _level: 19
+  _maxHealth: 268
+  _currentHealth: -244.87268
+  _regenHealth: 27
+  _maxMana: 268
+  _regenMana: 27
+  _baseStrength: 43
+  _baseIntelligence: 43
+  _baseConstitution: 43
+  _baseWisdom: 43
+  _baseAgility: 43
+  _baseDexterity: 43
+  _baseCharisma: 43
+  _baseLuck: 43
+  _currentExperience: 3000
+  _requiredExperience: 38038
+  _gold: 31500
+  _moveSpeed: 10
+  _baseExperience: 1500
+  _baseGold: 1500
+  _walkSprites:
+  - {fileID: 2459423795178989679, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: -8524958405612668247, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 2132316848668375772, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: -1857397745941879710, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: -8020725288094731558, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: -1625100000151364311, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 8492921416837373484, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 4708020740127401447, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: 4157231812394792741, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: -7404657842420052347, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 5036757190506660506, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: 4157231812394792741, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: -7404657842420052347, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 5036757190506660506, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  _deathSprites:
+  - {fileID: -110243004630535475, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 2216495515880604474, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  - {fileID: 7457058080075668677, guid: 9105160bbc9d8004d98c97e9c11c6dd0, type: 3}
+  _framesPerSecond: 4
+  _baseFramesPerSecond: 8

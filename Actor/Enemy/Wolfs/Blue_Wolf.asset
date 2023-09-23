@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Blue_Wolf
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 103
+  _name: Frost Wolf
+  _level: 5
+  _maxHealth: 2342
+  _currentHealth: -191.15576
+  _regenHealth: 234
+  _maxMana: 2342
+  _regenMana: 234
+  _baseStrength: 86
+  _baseIntelligence: 86
+  _baseConstitution: 86
+  _baseWisdom: 86
+  _baseAgility: 86
+  _baseDexterity: 86
+  _baseCharisma: 86
+  _baseLuck: 86
+  _currentExperience: 3000
+  _requiredExperience: 3015
+  _gold: 2340
+  _moveSpeed: 14
+  _baseExperience: 1000
+  _baseGold: 45
+  _walkSprites:
+  - {fileID: 4235839399592963756, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -8608292414940893931, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: 2628656847219652185, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -1724587738811189749, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -2331127123315801191, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: 6673096296671078675, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: 7935388117123623756, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: 4066030544791586003, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: 4751810366301292713, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -651848784165607622, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -1831370773966239997, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: 4751810366301292713, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -651848784165607622, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -1831370773966239997, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  _deathSprites:
+  - {fileID: 2369446850238035895, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: 8063443110673548036, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  - {fileID: -2019369098741574172, guid: 5e955496b10a38c488b072e68f55c984, type: 3}
+  _framesPerSecond: 5
+  _baseFramesPerSecond: 10

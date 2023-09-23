@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Rat
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 1
+  _name: Rat
+  _level: 1
+  _maxHealth: 100
+  _currentHealth: 100
+  _regenHealth: 10
+  _maxMana: 100
+  _regenMana: 10
+  _baseStrength: 1
+  _baseIntelligence: 1
+  _baseConstitution: 1
+  _baseWisdom: 1
+  _baseAgility: 1
+  _baseDexterity: 1
+  _baseCharisma: 1
+  _baseLuck: 1
+  _currentExperience: 25
+  _requiredExperience: 602
+  _gold: 15
+  _moveSpeed: 10
+  _baseExperience: 25
+  _baseGold: 5
+  _walkSprites:
+  - {fileID: -946889411211178367, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 5648282429771809655, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 318761232798241317, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 68643178835443084, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 7798674910781926164, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 597286638434954613, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: -517587164189900, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 4309189870305659307, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: 2167968570934009004, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 209784023669289877, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 763673867411051241, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: 2167968570934009004, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 209784023669289877, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: 763673867411051241, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  _deathSprites:
+  - {fileID: 3841653310581385070, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: -7511819572424492058, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: -5311557953625412735, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: -5637249109228961910, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  - {fileID: -6040989846706580833, guid: 57a473a401046654494fd74e01e6418c, type: 3}
+  _framesPerSecond: 5
+  _baseFramesPerSecond: 10

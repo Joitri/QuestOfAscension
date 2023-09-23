@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Zombie5
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 205
+  _name: Zombie
+  _level: 17
+  _maxHealth: 917
+  _currentHealth: -69.64441
+  _regenHealth: 92
+  _maxMana: 917
+  _regenMana: 92
+  _baseStrength: 105
+  _baseIntelligence: 105
+  _baseConstitution: 105
+  _baseWisdom: 105
+  _baseAgility: 105
+  _baseDexterity: 105
+  _baseCharisma: 105
+  _baseLuck: 105
+  _currentExperience: 4500
+  _requiredExperience: 30634
+  _gold: 87000
+  _moveSpeed: 10
+  _baseExperience: 1500
+  _baseGold: 1500
+  _walkSprites:
+  - {fileID: 5975819768264425826, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: -2674126784724232631, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: -8610803841206203860, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 3938904688569820312, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: -4275818502344993033, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 3099395877709168917, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 805380649473365739, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 8780805812170366948, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: -8407390561821816082, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 3761495739150762318, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 7107363826226566573, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: -8407390561821816082, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 3761495739150762318, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 7107363826226566573, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  _deathSprites:
+  - {fileID: -2829880528025331833, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: -4077776443458220956, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  - {fileID: 510490120124627787, guid: 13041a444fdc4d64eb45a0adfc70cfe4, type: 3}
+  _framesPerSecond: 4
+  _baseFramesPerSecond: 8

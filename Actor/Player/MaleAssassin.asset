@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: MaleAssassin
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 0
+  _name: User
+  _level: 1
+  _maxHealth: 100
+  _currentHealth: 100
+  _regenHealth: 5
+  _maxMana: 100
+  _regenMana: 5
+  _baseStrength: 25
+  _baseIntelligence: 25
+  _baseConstitution: 25
+  _baseWisdom: 25
+  _baseAgility: 25
+  _baseDexterity: 25
+  _baseCharisma: 25
+  _baseLuck: 25
+  _currentExperience: 0
+  _requiredExperience: 100
+  _gold: 0
+  _moveSpeed: 1
+  _baseExperience: 0
+  _baseGold: 0
+  _walkSprites:
+  - {fileID: 5492165273298889018, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -6094497219489030755, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -1641043102601424064, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: 4529528288305543201, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -5381222743900665667, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -6711827262694330883, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -6169659912177330163, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -2695923669097058461, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: 7781909867416147324, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  - {fileID: -2046610275868397843, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  - {fileID: 6927263175599372650, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: -5648357112448397973, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  - {fileID: 3346049255961776479, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  - {fileID: 6484670689958130090, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  _deathSprites:
+  - {fileID: -4544317490954064725, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -4069784100588278448, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -1627860009851263509, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: 1607403045270884043, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: 3789676158455586894, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -691311877273089192, guid: b2bd304674909314b94bca0c950795bc, type: 3}
+  - {fileID: -7579537891743128536, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  - {fileID: 8509786913471980286, guid: 5df61699af264584ca63dcaa940e6e4c, type: 3}
+  _framesPerSecond: 5
+  _baseFramesPerSecond: 10

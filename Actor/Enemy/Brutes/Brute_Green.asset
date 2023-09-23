@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Brute_Green
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 502
+  _name: Earth Brute
+  _level: 3
+  _maxHealth: 3850
+  _currentHealth: -443.258
+  _regenHealth: 385
+  _maxMana: 3850
+  _regenMana: 385
+  _baseStrength: 30
+  _baseIntelligence: 30
+  _baseConstitution: 30
+  _baseWisdom: 30
+  _baseAgility: 30
+  _baseDexterity: 30
+  _baseCharisma: 30
+  _baseLuck: 30
+  _currentExperience: 45
+  _requiredExperience: 1206
+  _gold: 1095
+  _moveSpeed: 20
+  _baseExperience: 15
+  _baseGold: 15
+  _walkSprites:
+  - {fileID: -3186783948096046684, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 7408353378060127734, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 9209968482168488811, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: -4621536352462236354, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 1631634386456206648, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: -5300406208197724323, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: -2976597455019649310, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 4870547847356925708, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: 1345469126677336923, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: -654819323507962587, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 571037087529856033, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: 1345469126677336923, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: -654819323507962587, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 571037087529856033, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  _deathSprites:
+  - {fileID: -6079875643047917952, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  - {fileID: 8203299623707536517, guid: 5693ab21f25abbf4a9881bf83f715001, type: 3}
+  _framesPerSecond: 4
+  _baseFramesPerSecond: 8

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Ghoul
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 301
+  _name: Ghoul
+  _level: 1
+  _maxHealth: 2000
+  _currentHealth: -103.486145
+  _regenHealth: 200
+  _maxMana: 2000
+  _regenMana: 200
+  _baseStrength: 37
+  _baseIntelligence: 37
+  _baseConstitution: 37
+  _baseWisdom: 37
+  _baseAgility: 37
+  _baseDexterity: 37
+  _baseCharisma: 37
+  _baseLuck: 37
+  _currentExperience: 14
+  _requiredExperience: 202
+  _gold: 119
+  _moveSpeed: 13
+  _baseExperience: 7
+  _baseGold: 7
+  _walkSprites:
+  - {fileID: -4850324314339309640, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 1018046980147972895, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 4496181573266214740, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: -4418964757246000279, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 2541652699418634776, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: -3456103075337830281, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 6048412603193703948, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 8353110650760841287, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: -9189444518303068867, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 7860438222414566793, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 2109247283702545653, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: -9189444518303068867, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 7860438222414566793, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 2109247283702545653, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  _deathSprites:
+  - {fileID: -448198910954878005, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: -8395052341180882823, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  - {fileID: 5695977445736167776, guid: 2e3570331b0ae0d4eb4bc914599bf0d5, type: 3}
+  _framesPerSecond: 4
+  _baseFramesPerSecond: 8

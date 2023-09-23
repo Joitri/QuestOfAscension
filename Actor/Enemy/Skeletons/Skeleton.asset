@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd655a31d9d91147a77c366b6153abb, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  state: 0
+  _id: 401
+  _name: Skeleton
+  _level: 7
+  _maxHealth: 2244
+  _currentHealth: -49.091003
+  _regenHealth: 224
+  _maxMana: 2244
+  _regenMana: 224
+  _baseStrength: 205
+  _baseIntelligence: 205
+  _baseConstitution: 205
+  _baseWisdom: 205
+  _baseAgility: 205
+  _baseDexterity: 205
+  _baseCharisma: 205
+  _baseLuck: 205
+  _currentExperience: 3000
+  _requiredExperience: 5621
+  _gold: 79500
+  _moveSpeed: 10
+  _baseExperience: 1500
+  _baseGold: 1500
+  _walkSprites:
+  - {fileID: 7053752873332932762, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: -5427067375919483910, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 6587540731602203581, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 1308180218971201802, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 6267489761963248460, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 5214873486499526980, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 4572475005295754817, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 3530617250957053428, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  _attackSpritesOneHanded:
+  - {fileID: -3322253308254329636, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: -5925351764598678706, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: -5949010421409671191, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  _attackSpritesTwoHanded:
+  - {fileID: -3322253308254329636, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: -5925351764598678706, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: -5949010421409671191, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  _deathSprites:
+  - {fileID: 1092317195978452987, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: -2924955134125008287, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 2214464543476683801, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 7702401071596560873, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  - {fileID: 5746422856171173908, guid: e9c7dbea91d9f4049a381a35034f4316, type: 3}
+  _framesPerSecond: 4
+  _baseFramesPerSecond: 8
