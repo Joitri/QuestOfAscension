@@ -49,6 +49,10 @@ Player Settings: <br/>
 <img src="https://i.imgur.com/cUPyz4n.png" height="80%" width="80%" alt="Quest of Ascension"/>
 <br />
 <br />
+File Structure: <br/>
+<img src="https://i.imgur.com/DPYa7Xi.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
 </p>
 <!--
  ```diff
