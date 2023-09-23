@@ -1,4 +1,4 @@
-<h1>Quest of Ascension</h1>
+<img width="258" alt="image" src="https://github.com/Joitri/QuestOfAscension/assets/71701549/fa649344-ab61-438b-8f64-d0f78fae18cc"><h1>Quest of Ascension</h1>
 
 <h2>Description</h2>
 Idle game where the players character walks across an endless world full of monsters. One by one the player must either slay the enemy or be slain and return weaker than before. If the player is capable of attaining the experience they may ascend and become even stronger! The more the player saves up, the better the rewards.
@@ -13,8 +13,40 @@ Idle game where the players character walks across an endless world full of mons
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Scene In Editor: <br/>
-<!--<img src="https://i.imgur.com/cKyTPI8.png" height="80%" width="80%" alt="Quest of Ascension"/>-->
+Start Scene: <br/>
+<img src="https://i.imgur.com/OIXoyUm.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+New Game: <br/>
+<img src="https://i.imgur.com/jpnZaXb.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Game Speed Controls: <br/>
+<img src="https://i.imgur.com/ET61lcf.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Equipment: <br/>
+<img src="https://i.imgur.com/aDPxj7B.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Inventory: <br/>
+<img src="https://i.imgur.com/eLJB8hV.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Player Stats: <br/>
+<img src="https://i.imgur.com/XQNvsov.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Map Selection: <br/>
+<img src="https://i.imgur.com/qPG6Pi0.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Rebirthing: <br/>
+<img src="https://i.imgur.com/0uvBWhE.png" height="80%" width="80%" alt="Quest of Ascension"/>
+<br />
+<br />
+Player Settings: <br/>
+<img src="https://i.imgur.com/cUPyz4n.png" height="80%" width="80%" alt="Quest of Ascension"/>
 <br />
 <br />
 </p>
